@@ -1,4 +1,5 @@
-<img src="blob:chrome-untrusted://media-app/b1f2c407-f0ad-484a-a551-edb93ad4e64b" alt="images.png"/>
+<img src="https://images.seeklogo.com/logo-png/32/2/monero-logo-png_seeklogo-322524.png" alt="Monero Logo PNG Vector (AI) Free Download"/>
+
 # NOT PROFITABLE FOR HOBBYIST ONLY
 
 # What this project is
